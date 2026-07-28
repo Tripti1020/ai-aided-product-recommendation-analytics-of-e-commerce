@@ -208,6 +208,10 @@ Through this project I learned:
 
 ---
 
+## 🌐 Live Demo
+
+👉 https://ai-aided-apppuct-recommendation-analytics-of-e-commerce-gvxerwu.streamlit.app
+
 ## 👩‍💻 Author
 
 **Tripti**
