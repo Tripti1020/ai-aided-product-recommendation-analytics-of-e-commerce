@@ -12,7 +12,7 @@ from recommender import fetch_recommendations
 
 #Page configuration
 st.set_page_config(
-    page_title="SmartCart Ai",
+    page_title="AI-Aided Product Recommendation Analytics of E-Commerce",
     page_icon="🛒",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -39,7 +39,7 @@ ssales_data, association_data = load_data()
 st.write("Association Rules Shape:", association_data.shape)
 st.write("Unique Antecedents:", association_data['antecedents'].nunique())
 st.write("Unique Consequents:", association_data['consequents'].nunique())
-st.title("SmartCart Ai  Recommendation Engine🛒")
+st.title("🛒 AI-Aided Product Recommendation Analytics of E-Commerce")
 st.markdown("""This intelligent recommmedation system analyzes customer purchasing behaviour and suggests products frequently bought together using association rule minning.""")
 
 #Sidebar
