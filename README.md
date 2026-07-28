@@ -1,12 +1,16 @@
-# 🛒AI-Aided-Product-Recommendation-Analytics-of-E-Commerce
+# 🛒 AI-Aided Product Recommendation Analytics of E-Commerce
 
-An intelligent product recommendation system built using **Python, Streamlit, and Association Rule Mining (Apriori Algorithm)**. This project analyzes customer purchasing behavior using the Instacart Market Basket Analysis dataset and recommends products that are frequently purchased together.
+An intelligent product recommendation system built using **Python, Streamlit, and the Apriori Algorithm**. This project analyzes customer purchasing behavior using the **Instacart Market Basket Analysis** dataset and recommends products that are frequently purchased together.
 
 ---
 
 ## 📌 Project Overview
 
-# 🛒 AI-Aided Product Recommendation Analytics of E-Commerce is a recommendation system that analyzes customer purchasing behavior using the Instacart Market Basket Analysis Dataset. It identifies products that are frequently purchased together using the Apriori Algorithm and provides intelligent product recommendations through an interactive Streamlit web application.
+AI-Aided Product Recommendation Analytics of E-Commerce is a recommendation system that analyzes customer purchasing behavior using the Instacart Market Basket Analysis dataset. It identifies products that are frequently purchased together using the Apriori Algorithm and provides intelligent product recommendations through an interactive Streamlit web application.
+
+Instead of recommending products randomly, the system identifies purchasing patterns using Association Rule Mining (Apriori Algorithm) and provides accurate product recommendations.
+
+This project demonstrates practical applications of **Data Analytics**, **Machine Learning**, and **Business Intelligence** in E-Commerce.
 
 Instead of recommending products randomly, the system identifies purchasing patterns using **Association Rule Mining (Apriori Algorithm)** and provides accurate product recommendations through an interactive Streamlit web application.
 
