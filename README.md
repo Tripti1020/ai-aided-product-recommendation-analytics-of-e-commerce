@@ -1,4 +1,4 @@
-# 🛒 SmartCart AI Recommendation Engine
+# 🛒AI-Aided-Product-Recommendation-Analytics-of-E-Commerce
 
 An intelligent product recommendation system built using **Python, Streamlit, and Association Rule Mining (Apriori Algorithm)**. This project analyzes customer purchasing behavior using the Instacart Market Basket Analysis dataset and recommends products that are frequently purchased together.
 
@@ -6,7 +6,7 @@ An intelligent product recommendation system built using **Python, Streamlit, an
 
 ## 📌 Project Overview
 
-The SmartCart AI Recommendation Engine helps users discover products that are commonly bought together based on historical transaction data.
+# 🛒 AI-Aided Product Recommendation Analytics of E-Commerce is a recommendation system that analyzes customer purchasing behavior using the Instacart Market Basket Analysis Dataset. It identifies products that are frequently purchased together using the Apriori Algorithm and provides intelligent product recommendations through an interactive Streamlit web application.
 
 Instead of recommending products randomly, the system identifies purchasing patterns using **Association Rule Mining (Apriori Algorithm)** and provides accurate product recommendations through an interactive Streamlit web application.
 
@@ -69,7 +69,7 @@ Displays purchase frequency for each product.
 ## 📂 Project Structure
 
 ```
-RECOMMENDATION-SYSTEM-RRR/
+AI-Aided-Product-Recommendation-Analytics-of-E-Commerce/
 │
 ├── app/
 │   └── app.py
@@ -140,7 +140,7 @@ These metrics help identify strong relationships between products purchased toge
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/Tripti1020/ai-aided-product-recommenation-analytics-of-e-commerce.git
 ```
 
 Move into the project
