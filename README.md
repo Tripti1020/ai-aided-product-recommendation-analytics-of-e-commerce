@@ -3,14 +3,13 @@
 An intelligent product recommendation system built using **Python, Streamlit, and the Apriori Algorithm**. This project analyzes customer purchasing behavior using the **Instacart Market Basket Analysis** dataset and recommends products that are frequently purchased together.
 
 ---
+## 🌐 Live Demo
+
+👉 https://ai-aided-apppuct-recommendation-analytics-of-e-commerce-gvxerwu.streamlit.app
 
 ## 📌 Project Overview
 
 AI-Aided Product Recommendation Analytics of E-Commerce is a recommendation system that analyzes customer purchasing behavior using the Instacart Market Basket Analysis dataset. It identifies products that are frequently purchased together using the Apriori Algorithm and provides intelligent product recommendations through an interactive Streamlit web application.
-
-Instead of recommending products randomly, the system identifies purchasing patterns using Association Rule Mining (Apriori Algorithm) and provides accurate product recommendations.
-
-This project demonstrates practical applications of **Data Analytics**, **Machine Learning**, and **Business Intelligence** in E-Commerce.
 
 Instead of recommending products randomly, the system identifies purchasing patterns using **Association Rule Mining (Apriori Algorithm)** and provides accurate product recommendations through an interactive Streamlit web application.
 
@@ -150,7 +149,7 @@ git clone https://github.com/Tripti1020/ai-aided-product-recommenation-analytics
 Move into the project
 
 ```bash
-cd your-repository
+cd ai-aided-product-recommenation-analytics-of-e-commerce
 ```
 
 Install dependencies
@@ -207,10 +206,6 @@ Through this project I learned:
 - Recommendation System Design
 
 ---
-
-## 🌐 Live Demo
-
-👉 https://ai-aided-apppuct-recommendation-analytics-of-e-commerce-gvxerwu.streamlit.app
 
 ## 👩‍💻 Author
 
